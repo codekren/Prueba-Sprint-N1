@@ -1,0 +1,130 @@
+*{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+}
+.seccion1{
+    object-fit: cover;
+}
+header{
+    padding: 1rem;
+}
+.inicio {
+    display: inline;
+   
+}
+.bloque {
+    background-color: #ffc6ac;
+}
+#logo {
+    height: 12vh;
+    margin-left: 55rem;
+    border: 2px solid blue ;
+}
+
+.inicial{
+    margin: 1,5rem;
+    color: gray ;
+    text-decoration: none;
+    padding: 3px;
+    font-size: medium;
+}
+
+.Titulo,.contacto, .lorem, .About{
+    text-align: center;
+}
+.seccion1{
+    width: 50rem;
+    height: 20rem;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom:1rem;
+    display:block;
+}
+
+.seccion2{
+    display:inline;
+    width: 28rem;
+    margin-left: 15rem;
+}
+#foto{
+    width: 17vw;
+    height: 21vh;
+    margin-left:5rem;   
+}
+
+.pintando{
+    width: 25rem;
+    height: 25rem;
+    margin-left: 29rem;
+}
+
+.email{
+    display:inline; 
+    margin:4rem;
+    
+}
+
+.datos{
+    text-align: center;
+    padding:1rem;
+}
+
+.imabout{ 
+    width: 15rem;
+    height: 10rem;
+    margin:1rem;
+}
+
+.menu{
+    display: inline;
+}
+.palabras{
+    display:inline;
+    position: relative;
+    bottom:3rem;
+}
+.enunciado{   
+    position:absolute;
+    bottom:5rem;
+}
+
+.imagen{   
+    position:relative;
+    left:45rem;
+}
+
+body{
+    background-color: #fff6dc;
+}
+footer{
+    text-align: center;
+    border: 2px solid #c4c1a4; 
+}
+.enlace{
+    position:relative;
+    left: 22rem;
+    margin:5rem;
+}
+
+table, tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.tabla1{
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 90vh;
+}
+
+.lista{
+    margin-left:10rem;
+}
+
+.artpaint,.boymirror {
+height: 30vh;
+}
+
